@@ -92,11 +92,11 @@ class MenuCentral extends Component {
 
 
         <a className="bannerDesktop" href="/">
-          <img className="img-menuCentral-header" src="http://tecmm.edu.mx/imagesReact/images/banner-tecmm-2020.webp"/>
+          <img className="img-menuCentral-header" src="http://tecmm.edu.mx/imagesReact/images/banner-tecmm-2020.jpg"/>
         </a>
 
         <a className="bannerMovil" href="/">
-          <img className="img-menuCentral-header" src="http://tecmm.edu.mx/imagesReact/images/banner-tecmm-2020-movil.webp"/>
+          <img className="img-menuCentral-header" src="http://tecmm.edu.mx/imagesReact/images/banner-tecmm-2020-movil.jpg"/>
         </a>
 
         <img className="img-menuCentral-nombre" src="http://lahuerta.tecmm.edu.mx/imagenes/laHuerta.png"/>

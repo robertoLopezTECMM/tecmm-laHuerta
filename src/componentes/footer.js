@@ -92,7 +92,7 @@ class Footer extends Component{
             <a>La Huerta, Jalisco.</a><br/>
             <a>357-38-41884</a>
             <div className="div-logosDireccion">
-              <img src="http://tecmm.edu.mx/imagesReact/images/logos/logos.webp"/>
+              <img src="http://tecmm.edu.mx/imagesReact/images/logos/logos.png"/>
             </div>
             <a id="leyendaAccesibilidad">Página con capacidad lectora de pantalla para personas con discapacidad visual o con visión reducida a través de la herramienta <a onClick={this.show.bind(this)}>ChromeVox (Click Aqui)</a></a>
 
@@ -105,11 +105,11 @@ class Footer extends Component{
         </div>
 
         <div className="div-transformarMexico">
-          <img src='http://tecmm.edu.mx/imagesReact/images/linksFooter/Banner%20Verde_Mesa%20de%20trabajo%201%20copia.webp'/>
+          <img src='http://tecmm.edu.mx/imagesReact/images/linksFooter/Banner%20Verde_Mesa%20de%20trabajo%201%20copia.jpg'/>
         </div>
 
         <div className="div-bannerSepSinTexto">
-          <img  src="http://tecmm.edu.mx/imagesReact/images/linksFooter/banner-tecmm-footer.webp  "/>
+          <img  src="http://tecmm.edu.mx/imagesReact/images/linksFooter/banner-tecmm-footer.jpg"/>
         </div>
 
 
